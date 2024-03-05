@@ -18,4 +18,4 @@ I've been a software developer for as long as I can remember. Through my journey
 2. [HTTP honeypot ](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 3. [HTTP CODES](https://www.restapitutorial.com/httpstatuscodes.html)
 4. [Everything related in easy terms](https://www.postman.com/api-glossary)
-
+5. [A tool to create dummy data JSON,Xml,etc](https://www.mockaroo.com)
